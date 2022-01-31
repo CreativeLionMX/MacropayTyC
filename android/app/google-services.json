@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "902014170421",
+    "project_id": "macropay-5a3d6",
+    "storage_bucket": "macropay-5a3d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902014170421:android:dd921b79f82787bcf7c87c",
+        "android_client_info": {
+          "package_name": "com.flutterflow.macropay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902014170421-n07nqlotqo02fc9bentm7fm5ujt4nech.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.macropay",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "902014170421-p865glcrs58k2s63rpngr9gt41hjbj2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkNgfPNvcgLSuDtljipxV1rpj18vbQ82o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902014170421-p865glcrs58k2s63rpngr9gt41hjbj2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "902014170421-ns4gt3s3rlhntmiapj01337bt0e534jm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.macropay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
